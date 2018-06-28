@@ -1,4 +1,3 @@
-theme: jekyll-theme-midnight
 # Astronomy
 
 This repository contains Rodrigo's Astronomy-related projects.
