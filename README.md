@@ -11,9 +11,9 @@ My Projects:
  
  I followed along examples of the 2016 Gaia DR1 Workshop. Here, I constructed Hertzsprung Russell (relating brightness and temperature) diagrams for all well-behaved stars in the Gaia and Hipparcos satellites. I also constructed proper motion diagrams around the LMC, Pleiades, and Barnard's star.
  
-[Thesis - NGC 1817:](https://github.com/RodrigoMejias/Astronomy/blob/master/Astronomy%20-%20Machine%20Learning%20.ipynb)
+[Thesis - NGC 1817:](https://github.com/RodrigoMejias/Astronomy/blob/master/Astrophysics%20Thesis%20Project.ipynb)
 
   This is the data analysis for my Thesis project in 2018 for Claremont McKenna College. 
   
   I completed a stellar variability analysis using [Kim and Bailer-Jones machine learning package for classifying variable stars: UPSILoN](https://github.com/dwkim78/upsilon)
-  Using data pulled from NASA's Kepler Data Archive, I identified 924 stars pertaining to NGC 1817, extracted the associated light curves and used UPSILoN to classify the stars into classes of variable stars. 
+  Using data pulled from NASA's K2 Data Archive, I identified stars pertaining to NGC 1817, extracted the associated light curves and used UPSILoN to classify the stars into classes of variable stars. 
